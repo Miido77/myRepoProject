@@ -1,3 +1,0 @@
-INDEX VERSION 1.127
-/Users/knight/Documents/GitHub/myRepoProject/project/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/425020954.index
-/testingOpenshift/src
